@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+💻 Estudante do 2º ano do ensino médio/técnico em informática, com experiência em programação, desenvolvimento web, redes de computadores e criação de jogos.
 <!--
 **isarangel000/isarangel000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

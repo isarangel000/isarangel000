@@ -7,7 +7,7 @@
 </p>
 
 </p>
-<p align="center">
+<!-- <p align="center">
   <strong>Contato<strong><br>
   <a href="mailto:brunomichel00@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>

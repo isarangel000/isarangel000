@@ -1,17 +1,14 @@
-## Hi there 👋
+## Oii! Meu nome é Isabela 🎀
 
-💻 Estudante do 2º ano do ensino médio/técnico em informática, com experiência em programação, desenvolvimento web, redes de computadores e criação de jogos.
-<!--
-**isarangel000/isarangel000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img1.picmix.com/output/stamp/normal/1/4/7/4/2704741_73fff.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="left">
 
-Here are some ideas to get you started:
+<p align="center"> 
+  Estudante do 2º ano do ensino médio/técnico em informática, com experiência em programação, desenvolvimento web, redes de computadores e criação de jogos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+  <strong>Contato<strong><br>
+  <a href="mailto:brunomichel00@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+</p>

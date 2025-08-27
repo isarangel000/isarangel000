@@ -27,7 +27,7 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:isabelarangel2008@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=Gmail&logoColor=black)](https://isabelarangel2008@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-ffb6c1?style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/isabela.rangel_/?next=%2F)
   [![Discord](https://img.shields.io/badge/Discord-ffb6c1?style=for-the-badge&logo=Discord&logoColor=black)](https://discord.gg/invite/isabela.rangel)
   [![Twitch](https://img.shields.io/badge/Twitch-ffb6c1?style=for-the-badge&logo=Twitch&logoColor=black)](https://www.twitch.tv/isarangelll)

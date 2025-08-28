@@ -16,8 +16,8 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isarangel000&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isarangel000&theme=panda) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=isarangel000&theme=panda) | 
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isarangel000&theme=panda&utcOffset=8) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isarangel000&theme=panda&hide_border=true)](https://git.io/streak-stats) | 
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isarangel000&theme=panda&utcOffset=8) | 
+| :-: | 
 
 </div>
 
